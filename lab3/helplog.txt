@@ -1,0 +1,11 @@
+Lab 3 Helplog 
+
+Members: ramann, sahilahu, nnabar 
+Submitting: nnabar
+
+
+
+
+2017-03-16 7:00pm: Went to OH to get help on the schematic. We discussed with Andy how to diagram bypassing. On ething to remember is that there are really only four types of bypasses that we are concerned with and for each one we can use a bypass module that outputs the necessary mux selectors 
+
+2017-03-15 6:30pm: At Office Hours we got help with fleshing out the schematic and figuring out how stalling comes into play.
